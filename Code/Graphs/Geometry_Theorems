@@ -1,0 +1,7 @@
+1. Teorema de Pick
+Dado um polígono simples construído sobre uma grade de pontos equidistantes (i.e., pontos com coordenadas inteiras) de
+tal forma que todos os vértices do polígono sejam pontos da grade, o teorema de Pick fornece uma fórmula simples para o 
+cálculo da área A desse polígono em termos do número i de pontos interiores localizados no polígono, e o número b de pontos 
+fronteiriços localizados no perímetro do polígono:
+A=i+b/2-1
+
