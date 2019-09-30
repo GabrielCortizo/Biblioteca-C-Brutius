@@ -1,0 +1,10 @@
+1. Lema de Burnside
+|X/G|=1/|G|*Somatorio(|X|^g) para todo g pertencente a G.
+
+Aplicações:
+O número de cores rotacionalmente distintas das faces de um cubo em n cores é dado por:
+1/24(n^6+3n^4+12n^3+8n^2)
+O número de configurações distintas das faces de uma peça com M grid's NxN conectadas rotacionando no eixo z utilizando c cores:
+1/M*Somatorio(c^(N^2)^gcd(i,M)) para todo i, tal que 0<=i<m.
+
+
